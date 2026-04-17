@@ -116,4 +116,6 @@ Business reasoning
 
 I provided data-driven recommendations to support sustainable e-commerce growth
 
+Author
 
+Sanjaykumar Retail Business Analytics Project Power BI | DAX | Retail Strategy | Data-Driven Decision Making
